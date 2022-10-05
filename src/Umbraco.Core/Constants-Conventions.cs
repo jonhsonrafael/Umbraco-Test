@@ -4,6 +4,7 @@ public static partial class Constants
 {
     /// <summary>
     ///     Defines the identifiers for property-type alias conventions that are used within the Umbraco core.
+    /// Teste
     /// </summary>
     public static class Conventions
     {
