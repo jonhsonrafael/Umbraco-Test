@@ -21,6 +21,8 @@ using Umbraco.Cms.Web.Common.ApplicationBuilder;
 using Umbraco.Extensions;
 using IHostingEnvironment = Umbraco.Cms.Core.Hosting.IHostingEnvironment;
 
+
+
 namespace Umbraco.Cms.ManagementApi;
 
 public class ManagementApiComposer : IComposer
